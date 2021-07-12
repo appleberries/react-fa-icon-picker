@@ -17,7 +17,6 @@
   "bugs": {
     "url": "https://github.com/DATechnologies/react-fa-icon-picker/issues"
   },
-  "homepage": "https://github.com/DATechnologies/react-fa-icon-picker#readme",
   "peerDependencies": {
     "react": "^16.8.0",
     "react-dom": "^16.8.0"
